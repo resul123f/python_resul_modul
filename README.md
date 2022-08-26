@@ -1,2 +1,2 @@
 # python_resul_modul
-modul
+bu modul resul fereczade tarafinda yapilmisdir
